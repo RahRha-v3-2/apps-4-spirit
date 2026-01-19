@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Multiplication Learning</string>
+    <string name="title_activity_main">Multiplication Learning</string>
+    <string name="package_name">com.example.multiplicationlearning</string>
+    <string name="custom_url_scheme">com.example.multiplicationlearning</string>
+</resources>

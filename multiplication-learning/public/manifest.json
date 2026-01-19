@@ -1,0 +1,17 @@
+{
+  "name": "Multiplication Learning",
+  "short_name": "MultiLearn",
+  "description": "An interactive multiplication learning app",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#000000",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/vite.svg",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
